@@ -1,0 +1,15 @@
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/bin/Debug/net8.0/AuthenticationApi.Domain.deps.json
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/bin/Debug/net8.0/AuthenticationApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/bin/Debug/net8.0/AuthenticationApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/bin/Debug/net8.0/eCommerce.SharedLibrary.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/bin/Debug/net8.0/eCommerce.SharedLibrary.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.csproj.AssemblyReference.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.AssemblyInfo.cs
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/Authenti.50218E98.Up2Date
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/refint/AuthenticationApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/AuthenticationApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.AuthenticationApiSolution/AuthenticationApi.Domain/obj/Debug/net8.0/ref/AuthenticationApi.Domain.dll

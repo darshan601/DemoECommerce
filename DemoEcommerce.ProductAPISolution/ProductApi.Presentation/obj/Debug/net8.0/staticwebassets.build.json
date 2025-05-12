@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QUaN1q22reQO3RSC7V1ePdLG4wNRIre29QtCbnaVMgI=",
+  "Source": "ProductApi.Presentation",
+  "BasePath": "_content/ProductApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

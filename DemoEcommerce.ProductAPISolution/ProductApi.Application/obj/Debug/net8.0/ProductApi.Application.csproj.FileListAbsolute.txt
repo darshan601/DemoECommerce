@@ -1,0 +1,17 @@
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/ProductApi.Application.deps.json
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/ProductApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/ProductApi.Application.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/eCommerce.SharedLibrary.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/ProductApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/eCommerce.SharedLibrary.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/bin/Debug/net8.0/ProductApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.csproj.AssemblyReference.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.AssemblyInfo.cs
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductA.E443A747.Up2Date
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/refint/ProductApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Application/obj/Debug/net8.0/ref/ProductApi.Application.dll

@@ -1,0 +1,11 @@
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.deps.json
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfo.cs
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/refint/ProductApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoEcommerce.ProductAPISolution/ProductApi.Domain/obj/Debug/net8.0/ref/ProductApi.Domain.dll

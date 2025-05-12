@@ -1,0 +1,17 @@
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/OrderApi.Application.deps.json
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/OrderApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/OrderApi.Application.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.AssemblyInfo.cs
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/refint/OrderApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/ref/OrderApi.Application.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/eCommerce.SharedLibrary.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/OrderApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/eCommerce.SharedLibrary.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/bin/Debug/net8.0/OrderApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.csproj.AssemblyReference.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/Debug/net8.0/OrderApi.A1672EEC.Up2Date

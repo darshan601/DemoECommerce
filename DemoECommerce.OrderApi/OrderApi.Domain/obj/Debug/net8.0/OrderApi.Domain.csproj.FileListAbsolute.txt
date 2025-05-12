@@ -1,0 +1,11 @@
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/bin/Debug/net8.0/OrderApi.Domain.deps.json
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/bin/Debug/net8.0/OrderApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/bin/Debug/net8.0/OrderApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.AssemblyInfo.cs
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/refint/OrderApi.Domain.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/Debug/net8.0/ref/OrderApi.Domain.dll

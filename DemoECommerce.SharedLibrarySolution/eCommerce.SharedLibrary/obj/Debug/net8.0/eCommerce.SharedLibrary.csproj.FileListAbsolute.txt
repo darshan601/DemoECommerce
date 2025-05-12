@@ -1,0 +1,12 @@
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net8.0/eCommerce.SharedLibrary.deps.json
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net8.0/eCommerce.SharedLibrary.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net8.0/eCommerce.SharedLibrary.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.csproj.AssemblyReference.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.AssemblyInfo.cs
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/refint/eCommerce.SharedLibrary.dll
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.pdb
+/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/ref/eCommerce.SharedLibrary.dll

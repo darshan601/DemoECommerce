@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "w27bMbdcobqsE6cd1YxITlMUgY9xZ7OurrpAXx1dgOs=",
+  "Source": "ApiGateway.Presentation",
+  "BasePath": "_content/ApiGateway.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

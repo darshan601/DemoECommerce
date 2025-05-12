@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Infrastructure/OrderApi.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/OrderApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/OrderApi.Application.csproj",
+        "projectName": "OrderApi.Application",
+        "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/OrderApi.Application.csproj",
+        "packagesPath": "/Users/darshanuttammistry/.nuget/packages/",
+        "outputPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darshanuttammistry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/OrderApi.Domain.csproj": {
+                "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/OrderApi.Domain.csproj"
+              },
+              "/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj": {
+                "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Polly.Core": {
+              "target": "Package",
+              "version": "[8.5.2, )"
+            },
+            "Polly.Extensions": {
+              "target": "Package",
+              "version": "[8.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/darshanuttammistry/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/OrderApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/OrderApi.Domain.csproj",
+        "projectName": "OrderApi.Domain",
+        "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/OrderApi.Domain.csproj",
+        "packagesPath": "/Users/darshanuttammistry/.nuget/packages/",
+        "outputPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darshanuttammistry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/darshanuttammistry/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Infrastructure/OrderApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Infrastructure/OrderApi.Infrastructure.csproj",
+        "projectName": "OrderApi.Infrastructure",
+        "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Infrastructure/OrderApi.Infrastructure.csproj",
+        "packagesPath": "/Users/darshanuttammistry/.nuget/packages/",
+        "outputPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darshanuttammistry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/OrderApi.Application.csproj": {
+                "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.OrderApi/OrderApi.Application/OrderApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/darshanuttammistry/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj",
+        "projectName": "eCommerce.SharedLibrary",
+        "projectPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj",
+        "packagesPath": "/Users/darshanuttammistry/.nuget/packages/",
+        "outputPath": "/Users/darshanuttammistry/Developer/projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darshanuttammistry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "/Users/darshanuttammistry/.nuget/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/darshanuttammistry/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
